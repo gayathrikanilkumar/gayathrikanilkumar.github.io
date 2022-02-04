@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<script src='https://d3js.org/d3.v7.min.js'></script>
+<html>
+  <script>
+    //loop which adds 10 ‘div’ elements and sets the contents to the count value 
+    for (var i = 0, n = 10; i < n; i++) {
+      var divTag = document.createElement("div");
+      let text = i;
+      divTag.id = "div" + i;
+      divTag.innerHTML = i + 1;
+      document.body.appendChild(divTag);
+      //the color of the first 5 elements are red and the last 5 elements are green 
+      if (i < 5) {
+        divTag.className = 'red';
+      } else {
+        divTag.className = 'green';
+      }
+    }
+
+    d3.selectAll(".red").style('color', 'red');
+    d3.selectAll(".green").style('color', 'green');
+
+  </script>
+
+</html>
