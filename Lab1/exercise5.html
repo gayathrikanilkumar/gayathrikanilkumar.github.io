@@ -1,0 +1,17 @@
+<script src='https://d3js.org/d3.v7.min.js'></script>
+<body>
+<script>
+  var bodyElement = d3.select("body");
+  var div = bodyElement.append("div");
+  div.text("Hello World!");
+
+
+  // chain syntax’ version for the ‘hello world’ and add color 
+
+  d3.select("body")
+  .append("div")
+  .text("Hello World!").
+  style('color', 'green');
+
+</script>
+</body>
