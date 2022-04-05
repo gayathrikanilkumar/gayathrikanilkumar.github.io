@@ -1,4 +1,4 @@
-﻿"IUCN","IUCN Category","SPEC","Species","COU","Country","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+﻿"IUCN","IUCN Category","SPEC","Species","COU","Country","Unit Code","Unit","PowerCode_Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
 "TOT_KNOWN","Total number of known species","MAMMAL","Mammals","AUS","Australia","NBR","Number","0","Units",,,380,,
 "TOT_KNOWN_IND","Total number of indigenous known species","MAMMAL","Mammals","AUS","Australia","NBR","Number","0","Units",,,353,,
 "ENDANGERED","Number of endangered species","MAMMAL","Mammals","AUS","Australia","NBR","Number","0","Units",,,38,,
