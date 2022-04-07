@@ -1,4 +1,4 @@
-Name,EX,EW,Subtotal (EX+EW),CR(PE),CR(PEW),Subtotal (EX+EW+ CR(PE)+CR(PEW)),CR,EN,VU,Subtotal (threatened spp.),LR/cd,NT or LR/nt,LC or LR/lc,DD,Total
+Name,EX,EW,Subtotal (EX+EW),CR(PE),CR(PEW),Subtotal (EX+EW+ CR(PE)+CR(PEW)),CR,EN,VU,Subtotal_threatened_spp,LR/cd,NT or LR/nt,LC or LR/lc,DD,Total
 ACTINOPTERYGII,79,10,89,122,6,217,626,"1,000","1,241","2,867",0,630,"13,064","4,356","21,006"
 AMPHIBIA,35,2,37,146,1,184,663,"1,060",721,"2,444",0,421,"3,129","1,184","7,215"
 ANTHOZOA,0,0,0,1,0,1,6,26,202,234,0,175,293,166,868
